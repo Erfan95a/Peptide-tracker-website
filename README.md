@@ -1,6 +1,3 @@
-# Peptide-tracker-website
-Website for peptide tracker app
-
 # Peptide Tracker
 
 **The smart companion for peptide researchers.**
