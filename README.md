@@ -59,8 +59,9 @@ Available on the **App Store** for iPhone.
 ## Privacy
 
 - Dose data is stored securely in Supabase and never sold to third parties.
-- Apple HealthKit data is read locally and is never uploaded.
-- Authentication is handled exclusively through Apple Sign-In.
+- Health Connect and Apple Health access is optional and controlled by the user.
+- Authentication is handled through Apple Sign-In on iOS and Google Sign-In on Android.
+- Privacy Policy: https://erfan95a.github.io/ai-peptide-tracker/privacy-policy.html
 
 ---
 
@@ -68,7 +69,7 @@ Available on the **App Store** for iPhone.
 
 For questions, bug reports, or feature requests:
 
-**Email:** [e.ahmadi95@protonmail.com](mailto:e.ahmadi95@protonmail.com)
+**Email:** [development@lanoya.nl](mailto:development@lanoya.nl)
 
 You can also use the in-app feedback button in Settings.
 
